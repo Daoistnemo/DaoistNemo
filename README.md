@@ -26,13 +26,19 @@ Automatización de pruebas end-to-end en una aplicación web para demostrar cono
 
 #🎯 **Objetivo Profesional**
  Estoy buscando oportunidades para contribuir en equipos enfocados en desarrollo de software y QA Testing, donde pueda aplicar mis habilidades y seguir creciendo profesionalmente.
+
  # 🧠 Sobre mí
 
 📖 Me encanta leer y aprender constantemente.
+
 💪 Disfruto del ejercicio como parte de un estilo de vida equilibrado.
+
 🎵 Soy amante de la música, que me acompaña en todo momento.
-🤝 Trabajo muy bien en equipo y valoro la colaboración para resolver problemas.
+
+🤝 Trabajo muy bien en equipo y valoro la colaboración para resolver problemas
+.
 💡 Me apasionan los retos, especialmente en programación, porque me ayudan a crecer profesionalmente.
+
 🚀 Siempre estoy buscando nuevas tecnologías y conocimientos que me permitan seguir avanzando en mi carrera.
 
 
