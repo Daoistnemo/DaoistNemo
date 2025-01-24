@@ -1,4 +1,4 @@
-#💡 ¡Hola! Soy [Kelvin Garcia (DaoistNemo]
+# 💡 ¡Hola! Soy [Kelvin Garcia (DaoistNemo]
 
 👷‍♂️ De electricista a programador: Estoy en una emocionante transición profesional, incursionando en el mundo del desarrollo de software y QA Testing. Mi experiencia se basa en aprender y aplicar tecnologías modernas para crear proyectos prácticos y funcionales.
 
